@@ -1,0 +1,6 @@
+framework module XXAutoLayout {
+  umbrella header "XXAutoLayout-umbrella.h"
+
+  export *
+  module * { export * }
+}

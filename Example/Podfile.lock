@@ -1,0 +1,16 @@
+PODS:
+  - XXAutoLayout (0.1.0)
+
+DEPENDENCIES:
+  - XXAutoLayout (from `../`)
+
+EXTERNAL SOURCES:
+  XXAutoLayout:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  XXAutoLayout: b070a5d41685690085522f2b5f20d3986fcd166b
+
+PODFILE CHECKSUM: aae418269c5b5c7d566772cb313a61d9eb386dac
+
+COCOAPODS: 1.2.0.beta.1
