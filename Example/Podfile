@@ -1,0 +1,6 @@
+use_frameworks!
+target 'XXAutoLayout_Tests' do
+  pod 'XXAutoLayout', :path => '../'
+  
+  
+end
