@@ -36,15 +36,15 @@
 /* Begin PBXFileReference section */
 		06214E53490699C42D0B89DBEE7D491F /* Pods-XXAutoLayoutTests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-XXAutoLayoutTests.release.xcconfig"; sourceTree = "<group>"; };
 		08F427472B5010021B4C343CF0230ED9 /* Pods-XXAutoLayout.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-XXAutoLayout.release.xcconfig"; sourceTree = "<group>"; };
-		0D093114A9A9A4D0A87A22F99A9CA668 /* Pods_XXAutoLayout.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = Pods_XXAutoLayout.framework; path = "Pods-XXAutoLayout.framework"; sourceTree = BUILT_PRODUCTS_DIR; };
+		0D093114A9A9A4D0A87A22F99A9CA668 /* Pods_XXAutoLayout.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_XXAutoLayout.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		124136706CD817BD64E1F4ABB282CE0D /* Pods-XXAutoLayoutUITests-acknowledgements.markdown */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = "Pods-XXAutoLayoutUITests-acknowledgements.markdown"; sourceTree = "<group>"; };
 		1541384DE20A4952CDC892AFA481AE80 /* Pods-XXAutoLayout.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-XXAutoLayout.debug.xcconfig"; sourceTree = "<group>"; };
-		1CA56CDB09A6E9D53690DCAE6C6DE9A1 /* Pods-XXAutoLayoutUITests.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; path = "Pods-XXAutoLayoutUITests.modulemap"; sourceTree = "<group>"; };
+		1CA56CDB09A6E9D53690DCAE6C6DE9A1 /* Pods-XXAutoLayoutUITests.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = "sourcecode.module-map"; path = "Pods-XXAutoLayoutUITests.modulemap"; sourceTree = "<group>"; };
 		1EE8F04F26AF45CA30FAE853EC423186 /* Pods-XXAutoLayoutTests-acknowledgements.markdown */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = "Pods-XXAutoLayoutTests-acknowledgements.markdown"; sourceTree = "<group>"; };
-		2964C8E8D57D4C375EC916815F5CA543 /* Pods-XXAutoLayoutTests.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; path = "Pods-XXAutoLayoutTests.modulemap"; sourceTree = "<group>"; };
+		2964C8E8D57D4C375EC916815F5CA543 /* Pods-XXAutoLayoutTests.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = "sourcecode.module-map"; path = "Pods-XXAutoLayoutTests.modulemap"; sourceTree = "<group>"; };
 		32A3593B7C9BF750A083E56F42218D2E /* UIView+AutoLayout.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "UIView+AutoLayout.m"; sourceTree = "<group>"; };
-		365AB0C30A22A5FACE582673D9449C33 /* XXAutoLayout.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; path = XXAutoLayout.modulemap; sourceTree = "<group>"; };
-		3D83C60BF0D4799CF1A5DDBD40531C41 /* Pods_XXAutoLayoutUITests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = Pods_XXAutoLayoutUITests.framework; path = "Pods-XXAutoLayoutUITests.framework"; sourceTree = BUILT_PRODUCTS_DIR; };
+		365AB0C30A22A5FACE582673D9449C33 /* XXAutoLayout.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = "sourcecode.module-map"; path = XXAutoLayout.modulemap; sourceTree = "<group>"; };
+		3D83C60BF0D4799CF1A5DDBD40531C41 /* Pods_XXAutoLayoutUITests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_XXAutoLayoutUITests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		405AA7BD802598A93B447BCC3D03ACEC /* Pods-XXAutoLayout-resources.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-XXAutoLayout-resources.sh"; sourceTree = "<group>"; };
 		417BCCDBD8390424BA9AA2D3878EE5FD /* Pods-XXAutoLayout-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Pods-XXAutoLayout-dummy.m"; sourceTree = "<group>"; };
 		418E7D2C48C0D1FCBE2CDE388AF75B36 /* Pods-XXAutoLayoutUITests-resources.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-XXAutoLayoutUITests-resources.sh"; sourceTree = "<group>"; };
@@ -55,25 +55,25 @@
 		5C437D169AB816109BE23BA48579ACAD /* Pods-XXAutoLayoutTests-resources.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-XXAutoLayoutTests-resources.sh"; sourceTree = "<group>"; };
 		6063CA008D7120F4AA0C925C0F1EFED7 /* Pods-XXAutoLayoutTests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-XXAutoLayoutTests.debug.xcconfig"; sourceTree = "<group>"; };
 		609F4592962A91464F3624AF915E13EA /* Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		62B1F15FE19B84FCFB50E20F8022B5BB /* XXAutoLayout.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = XXAutoLayout.framework; path = XXAutoLayout.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		62B1F15FE19B84FCFB50E20F8022B5BB /* XXAutoLayout.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = XXAutoLayout.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		6D360967CD27FA8880C7648BD0FBA53E /* Pods-XXAutoLayout-frameworks.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-XXAutoLayout-frameworks.sh"; sourceTree = "<group>"; };
 		70F3C50D6CA97CADFB5037B2665B39E3 /* UIView+AutoLayout.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "UIView+AutoLayout.h"; sourceTree = "<group>"; };
 		783C7B4AF82323C8D59341B3C1F892DC /* Pods-XXAutoLayoutUITests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-XXAutoLayoutUITests.release.xcconfig"; sourceTree = "<group>"; };
 		806F2CA5A2D68E6F6AE49B7788AF812B /* Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		8AB0FBB4A791920E730660762383863D /* Pods-XXAutoLayoutTests-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Pods-XXAutoLayoutTests-umbrella.h"; sourceTree = "<group>"; };
 		901B4C3B200190217462109C776D0BF6 /* Pods-XXAutoLayout-acknowledgements.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-XXAutoLayout-acknowledgements.plist"; sourceTree = "<group>"; };
-		93A4A3777CF96A4AAC1D13BA6DCCEA73 /* Podfile */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; lastKnownFileType = text; name = Podfile; path = ../Podfile; sourceTree = SOURCE_ROOT; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
+		93A4A3777CF96A4AAC1D13BA6DCCEA73 /* Podfile */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; name = Podfile; path = ../Podfile; sourceTree = SOURCE_ROOT; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
 		9D69C499261F3D4929C37D51CED50F50 /* Pods-XXAutoLayout-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Pods-XXAutoLayout-umbrella.h"; sourceTree = "<group>"; };
 		A80912D92FA48D5A08511E2148C0EC11 /* Pods-XXAutoLayoutUITests-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Pods-XXAutoLayoutUITests-dummy.m"; sourceTree = "<group>"; };
 		B4367684D4E9B1996A82F0C6320ADE20 /* XXAutoLayout-prefix.pch */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "XXAutoLayout-prefix.pch"; sourceTree = "<group>"; };
-		BC2731FF7160D7333125322704F4B79F /* Pods-XXAutoLayout.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; path = "Pods-XXAutoLayout.modulemap"; sourceTree = "<group>"; };
+		BC2731FF7160D7333125322704F4B79F /* Pods-XXAutoLayout.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = "sourcecode.module-map"; path = "Pods-XXAutoLayout.modulemap"; sourceTree = "<group>"; };
 		C93D4A110D675A0A7F42D1DA45A6E3DA /* Pods-XXAutoLayoutUITests-acknowledgements.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-XXAutoLayoutUITests-acknowledgements.plist"; sourceTree = "<group>"; };
 		CBB3DE36805AF21409EC968A9691732F /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS10.0.sdk/System/Library/Frameworks/Foundation.framework; sourceTree = DEVELOPER_DIR; };
 		CC586D7EF3AECF11E23B99706433B829 /* Pods-XXAutoLayoutTests-acknowledgements.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-XXAutoLayoutTests-acknowledgements.plist"; sourceTree = "<group>"; };
 		D82AC5AABE5ED7CD27CA9812631F5118 /* Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		E2050C30B327A2A622E82AB26029AC9D /* Pods-XXAutoLayoutUITests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-XXAutoLayoutUITests.debug.xcconfig"; sourceTree = "<group>"; };
 		E2B7DBF0367D2156B946E3D24B28D1F9 /* Pods-XXAutoLayout-acknowledgements.markdown */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = "Pods-XXAutoLayout-acknowledgements.markdown"; sourceTree = "<group>"; };
-		F3E3464AC8696FC2D94E6729E9B162B6 /* Pods_XXAutoLayoutTests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = Pods_XXAutoLayoutTests.framework; path = "Pods-XXAutoLayoutTests.framework"; sourceTree = BUILT_PRODUCTS_DIR; };
+		F3E3464AC8696FC2D94E6729E9B162B6 /* Pods_XXAutoLayoutTests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_XXAutoLayoutTests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		F50E42CDC920A2AD2E81969D7BF5152F /* XXAutoLayout-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "XXAutoLayout-dummy.m"; sourceTree = "<group>"; };
 		F7B4F7404ABEF3C9C225A371D9D797C9 /* XXAutoLayout.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = XXAutoLayout.xcconfig; sourceTree = "<group>"; };
 		FC64718D6DA9998ACACACC851AB2E77B /* XXAutoLayout-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "XXAutoLayout-umbrella.h"; sourceTree = "<group>"; };
@@ -121,7 +121,6 @@
 			children = (
 				299EE394B7A3E605BBDE13E1952B0273 /* Classes */,
 			);
-			name = XXAutoLayout;
 			path = XXAutoLayout;
 			sourceTree = "<group>";
 		};
@@ -185,7 +184,6 @@
 				70F3C50D6CA97CADFB5037B2665B39E3 /* UIView+AutoLayout.h */,
 				32A3593B7C9BF750A083E56F42218D2E /* UIView+AutoLayout.m */,
 			);
-			name = Classes;
 			path = Classes;
 			sourceTree = "<group>";
 		};
@@ -385,6 +383,20 @@
 			attributes = {
 				LastSwiftUpdateCheck = 0730;
 				LastUpgradeCheck = 0700;
+				TargetAttributes = {
+					61EE36E3C4D6496F8AA6F39EAECC41A6 = {
+						LastSwiftMigration = 0820;
+					};
+					78012E5262A303C9C022297346122C72 = {
+						LastSwiftMigration = 0820;
+					};
+					8AE9D5995515102C3B94F348C2F00058 = {
+						LastSwiftMigration = 0820;
+					};
+					FB66D8523D49F4E724609E59E38F7A31 = {
+						LastSwiftMigration = 0820;
+					};
+				};
 			};
 			buildConfigurationList = 2D8E8EC45A3A1A1D94AE762CB5028504 /* Build configuration list for PBXProject "Pods" */;
 			compatibilityVersion = "Xcode 3.2";
@@ -481,6 +493,7 @@
 				PRODUCT_NAME = Pods_XXAutoLayoutTests;
 				SDKROOT = iphoneos;
 				SKIP_INSTALL = YES;
+				SWIFT_VERSION = 3.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
 				VERSIONING_SYSTEM = "apple-generic";
 				VERSION_INFO_PREFIX = "";
@@ -512,6 +525,7 @@
 				PRODUCT_NAME = XXAutoLayout;
 				SDKROOT = iphoneos;
 				SKIP_INSTALL = YES;
+				SWIFT_VERSION = 3.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
 				VERSIONING_SYSTEM = "apple-generic";
 				VERSION_INFO_PREFIX = "";
@@ -547,6 +561,7 @@
 				PRODUCT_NAME = Pods_XXAutoLayout;
 				SDKROOT = iphoneos;
 				SKIP_INSTALL = YES;
+				SWIFT_VERSION = 3.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
 				VERSIONING_SYSTEM = "apple-generic";
 				VERSION_INFO_PREFIX = "";
@@ -582,6 +597,7 @@
 				PRODUCT_NAME = Pods_XXAutoLayoutUITests;
 				SDKROOT = iphoneos;
 				SKIP_INSTALL = YES;
+				SWIFT_VERSION = 3.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
 				VERSIONING_SYSTEM = "apple-generic";
 				VERSION_INFO_PREFIX = "";
@@ -617,6 +633,7 @@
 				PRODUCT_NAME = Pods_XXAutoLayout;
 				SDKROOT = iphoneos;
 				SKIP_INSTALL = YES;
+				SWIFT_VERSION = 3.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
 				VERSIONING_SYSTEM = "apple-generic";
 				VERSION_INFO_PREFIX = "";
@@ -648,6 +665,7 @@
 				PRODUCT_NAME = XXAutoLayout;
 				SDKROOT = iphoneos;
 				SKIP_INSTALL = YES;
+				SWIFT_VERSION = 3.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
 				VERSIONING_SYSTEM = "apple-generic";
 				VERSION_INFO_PREFIX = "";
@@ -723,6 +741,7 @@
 				PRODUCT_NAME = Pods_XXAutoLayoutUITests;
 				SDKROOT = iphoneos;
 				SKIP_INSTALL = YES;
+				SWIFT_VERSION = 3.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
 				VERSIONING_SYSTEM = "apple-generic";
 				VERSION_INFO_PREFIX = "";
@@ -802,6 +821,7 @@
 				PRODUCT_NAME = Pods_XXAutoLayoutTests;
 				SDKROOT = iphoneos;
 				SKIP_INSTALL = YES;
+				SWIFT_VERSION = 3.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
 				VERSIONING_SYSTEM = "apple-generic";
 				VERSION_INFO_PREFIX = "";
